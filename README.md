@@ -1,5 +1,5 @@
 # Graduate Admission Prediction Using Multiple linear Regression
-In this project i trained the regression models to find the probability of a student getting accepted into a particular university based on their profile.
+In this project I trained the regression models to find the probability of a student getting accepted into a particular university based on their profile.
 The data used in following manner
 GRE Scores ( out of 340 )
 TOEFL Scores ( out of 120 )
